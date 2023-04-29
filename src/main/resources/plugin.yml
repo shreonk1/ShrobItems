@@ -1,0 +1,7 @@
+name: ShrobItems
+version: '${project.version}'
+main: me.joey.shrobitems.ShrobItems
+api-version: 1.19
+prefix: [ShrobItems]
+authors: [Shrob]
+description: A custom item plugin made my Shrob.
